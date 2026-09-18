@@ -1,0 +1,420 @@
+{
+  "generatedAt": "2026-09-18T15:53:00Z",
+  "summary": {
+    "totalStudents": 32,
+    "overallAverageGrade": 84.02,
+    "enrollmentStatus": {
+      "enrolled": 27,
+      "notEnrolled": 5,
+      "total": 32
+    }
+  },
+  "topPerformingStudent": {
+    "id": 27,
+    "name": "Amy Hernandez",
+    "course": "Physics",
+    "averageGrade": 96.25
+  },
+  "top5Students": [
+    {
+      "id": 27,
+      "name": "Amy Hernandez",
+      "course": "Physics",
+      "averageGrade": 96.25
+    },
+    {
+      "id": 18,
+      "name": "Rachel Robinson",
+      "course": "Mathematics",
+      "averageGrade": 95.25
+    },
+    {
+      "id": 4,
+      "name": "David Brown",
+      "course": "Computer Science",
+      "averageGrade": 95.0
+    },
+    {
+      "id": 9,
+      "name": "Ivy Taylor",
+      "course": "Biology",
+      "averageGrade": 94.5
+    },
+    {
+      "id": 24,
+      "name": "Xavier Hall",
+      "course": "Computer Science",
+      "averageGrade": 94.25
+    }
+  ],
+  "courseAverages": [
+    {
+      "course": "Computer Science",
+      "averageGrade": 88.0
+    },
+    {
+      "course": "Biology",
+      "averageGrade": 87.04
+    },
+    {
+      "course": "Mathematics",
+      "averageGrade": 84.0
+    },
+    {
+      "course": "Physics",
+      "averageGrade": 76.94
+    }
+  ],
+  "studentsByCourse": {
+    "Computer Science": [
+      {
+        "id": 1,
+        "name": "Alice Johnson",
+        "year": 1,
+        "enrolled": true
+      },
+      {
+        "id": 4,
+        "name": "David Brown",
+        "year": 1,
+        "enrolled": true
+      },
+      {
+        "id": 8,
+        "name": "Henry Moore",
+        "year": 1,
+        "enrolled": true
+      },
+      {
+        "id": 12,
+        "name": "Leo Jackson",
+        "year": 1,
+        "enrolled": true
+      },
+      {
+        "id": 16,
+        "name": "Peter Garcia",
+        "year": 1,
+        "enrolled": false
+      },
+      {
+        "id": 20,
+        "name": "Tina Rodriguez",
+        "year": 1,
+        "enrolled": true
+      },
+      {
+        "id": 24,
+        "name": "Xavier Hall",
+        "year": 1,
+        "enrolled": true
+      },
+      {
+        "id": 28,
+        "name": "Brian King",
+        "year": 1,
+        "enrolled": true
+      },
+      {
+        "id": 32,
+        "name": "Felix Scott",
+        "year": 1,
+        "enrolled": true
+      }
+    ],
+    "Mathematics": [
+      {
+        "id": 2,
+        "name": "Bob Smith",
+        "year": 2,
+        "enrolled": true
+      },
+      {
+        "id": 6,
+        "name": "Frank Miller",
+        "year": 2,
+        "enrolled": true
+      },
+      {
+        "id": 10,
+        "name": "Jack Anderson",
+        "year": 2,
+        "enrolled": false
+      },
+      {
+        "id": 14,
+        "name": "Noah Harris",
+        "year": 2,
+        "enrolled": true
+      },
+      {
+        "id": 18,
+        "name": "Rachel Robinson",
+        "year": 2,
+        "enrolled": true
+      },
+      {
+        "id": 22,
+        "name": "Victor Lee",
+        "year": 2,
+        "enrolled": true
+      },
+      {
+        "id": 26,
+        "name": "Zack Young",
+        "year": 2,
+        "enrolled": true
+      },
+      {
+        "id": 30,
+        "name": "Derek Lopez",
+        "year": 2,
+        "enrolled": false
+      }
+    ],
+    "Physics": [
+      {
+        "id": 3,
+        "name": "Carol Williams",
+        "year": 3,
+        "enrolled": true
+      },
+      {
+        "id": 7,
+        "name": "Grace Wilson",
+        "year": 3,
+        "enrolled": true
+      },
+      {
+        "id": 11,
+        "name": "Karen Thomas",
+        "year": 3,
+        "enrolled": true
+      },
+      {
+        "id": 15,
+        "name": "Olivia Martin",
+        "year": 3,
+        "enrolled": true
+      },
+      {
+        "id": 19,
+        "name": "Sam Clark",
+        "year": 3,
+        "enrolled": true
+      },
+      {
+        "id": 23,
+        "name": "Wendy Walker",
+        "year": 3,
+        "enrolled": true
+      },
+      {
+        "id": 27,
+        "name": "Amy Hernandez",
+        "year": 3,
+        "enrolled": true
+      },
+      {
+        "id": 31,
+        "name": "Elena Hill",
+        "year": 3,
+        "enrolled": true
+      }
+    ],
+    "Biology": [
+      {
+        "id": 5,
+        "name": "Emma Davis",
+        "year": 4,
+        "enrolled": false
+      },
+      {
+        "id": 9,
+        "name": "Ivy Taylor",
+        "year": 4,
+        "enrolled": true
+      },
+      {
+        "id": 13,
+        "name": "Mia White",
+        "year": 4,
+        "enrolled": true
+      },
+      {
+        "id": 17,
+        "name": "Quinn Martinez",
+        "year": 4,
+        "enrolled": true
+      },
+      {
+        "id": 21,
+        "name": "Uma Lewis",
+        "year": 4,
+        "enrolled": false
+      },
+      {
+        "id": 25,
+        "name": "Yara Allen",
+        "year": 4,
+        "enrolled": true
+      },
+      {
+        "id": 29,
+        "name": "Cathy Wright",
+        "year": 4,
+        "enrolled": true
+      }
+    ]
+  },
+  "studentsByYear": {
+    "Year 1": {
+      "count": 9,
+      "students": [
+        {
+          "id": 1,
+          "name": "Alice Johnson"
+        },
+        {
+          "id": 4,
+          "name": "David Brown"
+        },
+        {
+          "id": 8,
+          "name": "Henry Moore"
+        },
+        {
+          "id": 12,
+          "name": "Leo Jackson"
+        },
+        {
+          "id": 16,
+          "name": "Peter Garcia"
+        },
+        {
+          "id": 20,
+          "name": "Tina Rodriguez"
+        },
+        {
+          "id": 24,
+          "name": "Xavier Hall"
+        },
+        {
+          "id": 28,
+          "name": "Brian King"
+        },
+        {
+          "id": 32,
+          "name": "Felix Scott"
+        }
+      ]
+    },
+    "Year 2": {
+      "count": 8,
+      "students": [
+        {
+          "id": 2,
+          "name": "Bob Smith"
+        },
+        {
+          "id": 6,
+          "name": "Frank Miller"
+        },
+        {
+          "id": 10,
+          "name": "Jack Anderson"
+        },
+        {
+          "id": 14,
+          "name": "Noah Harris"
+        },
+        {
+          "id": 18,
+          "name": "Rachel Robinson"
+        },
+        {
+          "id": 22,
+          "name": "Victor Lee"
+        },
+        {
+          "id": 26,
+          "name": "Zack Young"
+        },
+        {
+          "id": 30,
+          "name": "Derek Lopez"
+        }
+      ]
+    },
+    "Year 3": {
+      "count": 8,
+      "students": [
+        {
+          "id": 3,
+          "name": "Carol Williams"
+        },
+        {
+          "id": 7,
+          "name": "Grace Wilson"
+        },
+        {
+          "id": 11,
+          "name": "Karen Thomas"
+        },
+        {
+          "id": 15,
+          "name": "Olivia Martin"
+        },
+        {
+          "id": 19,
+          "name": "Sam Clark"
+        },
+        {
+          "id": 23,
+          "name": "Wendy Walker"
+        },
+        {
+          "id": 27,
+          "name": "Amy Hernandez"
+        },
+        {
+          "id": 31,
+          "name": "Elena Hill"
+        }
+      ]
+    },
+    "Year 4": {
+      "count": 7,
+      "students": [
+        {
+          "id": 5,
+          "name": "Emma Davis"
+        },
+        {
+          "id": 9,
+          "name": "Ivy Taylor"
+        },
+        {
+          "id": 13,
+          "name": "Mia White"
+        },
+        {
+          "id": 17,
+          "name": "Quinn Martinez"
+        },
+        {
+          "id": 21,
+          "name": "Uma Lewis"
+        },
+        {
+          "id": 25,
+          "name": "Yara Allen"
+        },
+        {
+          "id": 29,
+          "name": "Cathy Wright"
+        }
+      ]
+    }
+  }
+}
